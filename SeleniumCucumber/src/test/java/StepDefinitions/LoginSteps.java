@@ -19,7 +19,7 @@ public class LoginSteps {
 
 	@And("clicks on login button")
 	public void clicks_on_login_button() {
-		System.out.println("user eneters valid user name and password");
+		System.out.println("clicks on login button");
 	}
 
 	@Then("user is navigated to homepage")
